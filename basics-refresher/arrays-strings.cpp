@@ -10,6 +10,5 @@ int main()
 
    string str;
     cin >> str;
-    str[0]= 'A'
-
+    str[0]= 'A';
 }
