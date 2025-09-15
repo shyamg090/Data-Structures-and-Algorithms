@@ -1,0 +1,12 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -o $fileNameWithoutExt $fileName && ./$fileNameWithoutExt"
+    },
+    "code-runner.defaultLanguage": "cpp",
+    "code-runner.showExecutionMessage": false,
+    "C_Cpp.debugShortcut": false,
+    "C_Cpp.default.configurationProvider": ""
+}
